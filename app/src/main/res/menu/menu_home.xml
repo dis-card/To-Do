@@ -1,0 +1,41 @@
+<!--
+  ~      Copyright (C) 2016  Vikash Kumar
+  ~
+  ~      This program is free software: you can redistribute it and/or modify
+  ~      it under the terms of the GNU General Public License as published by
+  ~      the Free Software Foundation, either version 3 of the License, or
+  ~      (at your option) any later version.
+  ~
+  ~      This program is distributed in the hope that it will be useful,
+  ~      but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~      MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~      GNU General Public License for more details.
+  ~
+  ~      You should have received a copy of the GNU General Public License
+  ~      along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  ~
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="darkstars.in.todo.Home">
+    <item
+        android:id="@+id/addShortCut"
+        android:orderInCategory="99"
+        android:title="@string/addMenuItem"
+        android:icon="@drawable/add"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_task_list"
+        android:orderInCategory="100"
+        android:title="@string/taskListMenuItem"
+        android:icon="@drawable/list"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_preferences"
+        android:orderInCategory="101"
+        android:icon="@drawable/prefs"
+        android:title="@string/prefsMenuItem"
+        app:showAsAction="always" />
+</menu>

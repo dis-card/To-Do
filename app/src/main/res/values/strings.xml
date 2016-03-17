@@ -1,0 +1,54 @@
+<!--
+  ~      Copyright (C) 2016  Vikash Kumar
+  ~
+  ~      This program is free software: you can redistribute it and/or modify
+  ~      it under the terms of the GNU General Public License as published by
+  ~      the Free Software Foundation, either version 3 of the License, or
+  ~      (at your option) any later version.
+  ~
+  ~      This program is distributed in the hope that it will be useful,
+  ~      but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~      MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~      GNU General Public License for more details.
+  ~
+  ~      You should have received a copy of the GNU General Public License
+  ~      along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  ~
+  -->
+
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="title_activity_task_list">Task List</string>
+    <string name="taskLabel">Task</string>
+    <string name="dateLabel">Date</string>
+    <string name="reminderLabel">Reminder</string>
+    <string name="timeLabel">Time</string>
+    <string name="commentLabel">Comment</string>
+    <string name="addButtonLabel">Add</string>
+
+    <string name="addMenuItem">Add</string>
+    <string name="taskListMenuItem">Task List</string>
+    <string name="prefsMenuItem">Preferences</string>
+
+    <!-- Menus Start -->
+
+    <string name="done">Done</string>
+    <string name="postPone">Post Pone</string>
+    <string name="delete">Delete</string>
+
+    <!-- Menu End -->
+
+    <!-- Success Messages Start -->
+
+    <string name="taskAddSuc">Task added successfully.</string>
+    <string name="taskDelSuc">Task removed successfully.</string>
+
+    <!-- Success Messages End -->
+
+
+    <!-- Error Messages Start -->
+
+    <string name="taskEmptyError">Task name can not be empty</string>
+
+    <!-- Error Messages End -->
+</resources>
