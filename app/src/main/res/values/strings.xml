@@ -21,7 +21,7 @@
     <string name="title_activity_task_list">Task List</string>
     <string name="taskLabel">Task</string>
     <string name="dateLabel">Date</string>
-    <string name="reminderLabel">Reminder</string>
+    <string name="alarmLabel">Alarm</string>
     <string name="timeLabel">Time</string>
     <string name="commentLabel">Comment</string>
     <string name="addButtonLabel">Add</string>

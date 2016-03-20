@@ -69,9 +69,11 @@
         <CheckBox
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/reminderLabel"
-            android:onClick="onReminderCheck"
-            android:id="@+id/reminderCheckBox" />
+            android:text="@string/alarmLabel"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:onClick="onAlarmCheck"
+            android:id="@+id/alarmCheckBox"
+            android:checked="false" />
 
         <TextView
             android:layout_width="wrap_content"
