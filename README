@@ -1,2 +1,16 @@
-# To-Do
-Android application to track and maintain daily chores.
+# To-Do 
+1. Introduction.
+A very basic android application to track and maintain daily chores.
+
+2. Features (desired).
+a. Add tasks.
+b. Set alarm for tasks.
+c. Cancel or complete a task.
+d. List the tasks.
+e. Edit the tasks.
+
+3. Limitations.
+a. Sets alarm on system clock.
+b. Only set alarm for today's task.
+
+Note :- This is work in progress.
